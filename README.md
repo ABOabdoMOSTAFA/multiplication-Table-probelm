@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Write a dart program that takes a number as
+input and prints its multiplication table up to 12
